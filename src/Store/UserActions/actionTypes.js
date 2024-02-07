@@ -1,0 +1,3 @@
+// UserAction
+export const SET_COMPANY_IMAGE = 'SET_COMPANY_IMAGE';
+export const SET_AGENCY_IMAGE = 'SET_AGENCY_IMAGE';

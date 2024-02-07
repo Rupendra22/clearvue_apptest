@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "640075615913",
+    "project_id": "clearvue-58524",
+    "storage_bucket": "clearvue-58524.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640075615913:android:03c3f0f7e5f4ce882363b8",
+        "android_client_info": {
+          "package_name": "com.theclearvue.co.uk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640075615913-brmsp1ejsqlu5a921il1ig2nc8tkfjva.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.theclearvue.co.uk",
+            "certificate_hash": "0340fb08e5e61e5be80c5e757f0e21cef40b3627"
+          }
+        },
+        {
+          "client_id": "640075615913-3id5l27vvjq8irb5m01p6vnbdmt1jebf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW4u3iI3hNOLjh_CkfS9iS-q0yT8MzERw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640075615913-3id5l27vvjq8irb5m01p6vnbdmt1jebf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>640075615913-nlegf0jtkr85spjtepbghr15p7iglu58.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.640075615913-nlegf0jtkr85spjtepbghr15p7iglu58</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>640075615913-brmsp1ejsqlu5a921il1ig2nc8tkfjva.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAyCSZIjYXtI_ldF5mjM0jD8kY01opdyXg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>640075615913</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.theclearvue.co.uk</string>
+	<key>PROJECT_ID</key>
+	<string>clearvue-58524</string>
+	<key>STORAGE_BUCKET</key>
+	<string>clearvue-58524.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:640075615913:ios:81cd6a1b99cbc1862363b8</string>
+</dict>
+</plist>
